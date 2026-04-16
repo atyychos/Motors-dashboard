@@ -1,2 +1,2 @@
 # Motors-dashboard
-A general dashboard about bikes sales that studies various factors that have affected or could affect the overall bike sales.
+The project focuses on transforming raw sales data into meaningful insights through interactive visuals, enabling better decision-making. It highlights trends in revenue, regional performance, product demand, and customer behavior using Excel-based tools and techniques. This dashboard reflects practical skills in data cleaning, analysis, and visualization for real-world business scenarios.
