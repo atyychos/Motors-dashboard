@@ -28,7 +28,7 @@ The interactive dashboard enables stakeholders to explore data across multiple d
 | Pivot Tables | Data aggregation |
 | Pivot Charts | Data visualization |
 | Slicers | Interactive filtering |
-
+ 
 ---
 
 ## Dataset Information
