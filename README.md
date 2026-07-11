@@ -9,7 +9,7 @@ The interactive dashboard enables stakeholders to explore data across multiple d
 
 ---
 
-## Business Objectives
+## Business Objectives 
 
 - Analyze factors influencing bike purchase decisions
 - Understand customer demographics and income distribution
