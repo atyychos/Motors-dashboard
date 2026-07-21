@@ -1,7 +1,7 @@
 # Bike Sales Dashboard | Customer Analytics & Business Intelligence Project
   
 ## Project Overview 
-This project presents an end-to-end business analytics solution built using Microsoft Excel to analyze customer demographics, income patterns, commute behavior, and bike purchase decisions.
+This project presents an end-to-end business analytics solution built using Microsoft Excel to analyze customer demographics, income patterns, commute behavior, and bike purchase decisions. 
 
 The objective is to transform raw customer data into meaningful insights that help understand purchasing behavior and identify key drivers influencing bike purchases.
 
