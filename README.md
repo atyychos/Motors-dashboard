@@ -1,4 +1,4 @@
-# Bike Sales Dashboard | Customer Analytics & Business Intelligence Project 
+# Bike Sales Dashboard | Customer Analytics & Business Intelligence Project  
   
 ## Project Overview 
 This project presents an end-to-end business analytics solution built using Microsoft Excel to analyze customer demographics, income patterns, commute behavior, and bike purchase decisions. 
